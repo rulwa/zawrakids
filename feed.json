@@ -5,7 +5,7 @@
     "home_page_url": "https://rulwa.github.io/zawrakids",
     "feed_url": "https://rulwa.github.io/zawrakids/feed.json",
     "user_comment": "",
-    "icon": "https://rulwa.github.io/zawrakids/media/website/zawrakids_header.png",
+    "icon": "https://rulwa.github.io/zawrakids/media/website/logo_zawrakids.jpg",
     "author": {
         "name": "fahrul"
     },
@@ -21,8 +21,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-06-26T11:24:45+07:00",
-            "date_modified": "2020-06-26T11:24:45+07:00"
+            "date_published": "2020-06-26T12:37:03+07:00",
+            "date_modified": "2020-06-26T12:37:03+07:00"
         }
     ]
 }
